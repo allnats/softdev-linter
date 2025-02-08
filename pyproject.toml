@@ -11,13 +11,7 @@ select = [
     "E501",     # pycodestyle line-too-long
     "D",        # pydocstyle
     "Q",        # Prefer double quotes
-    "E262",     # No space after inline comment (preview)
-    "E265",     # No space after block comment (preview)
-    "E225",     # Missing whitespace around operator (preview)
-    "E226",     # Missing whitespace around arithmetic operator (preview)
-    "E227",     # Missing whitespace around bitwise or shift operator (preview)
-    "E228",     # Missing whitespace around modulo operator (preview)
-    "E231",     # Missing whitespace around modulo operator (preview)
+    "E2",
     "PLR2044",  # Pyline empty-comment
     "N"         # pep8-naming
 ]
